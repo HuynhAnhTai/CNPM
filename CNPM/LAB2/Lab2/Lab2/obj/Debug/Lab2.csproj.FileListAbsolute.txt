@@ -1,0 +1,9 @@
+E:\CNPM\LAB2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\CNPM\LAB2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+E:\CNPM\LAB2\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+E:\CNPM\LAB2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+E:\CNPM\LAB2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+E:\CNPM\LAB2\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\CNPM\LAB2\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\CNPM\LAB2\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\CNPM\LAB2\Lab2\Lab2\obj\Debug\Lab2.pdb

@@ -1,0 +1,8 @@
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcerciseTests\bin\Debug\UnitTestExcerciseTests.dll
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcerciseTests\bin\Debug\UnitTestExcerciseTests.pdb
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcerciseTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcerciseTests\bin\Debug\UnitTestExcercise.exe
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcerciseTests\bin\Debug\UnitTestExcercise.pdb
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcerciseTests\obj\Debug\UnitTestExcerciseTests.csprojResolveAssemblyReference.cache
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcerciseTests\obj\Debug\UnitTestExcerciseTests.dll
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcerciseTests\obj\Debug\UnitTestExcerciseTests.pdb

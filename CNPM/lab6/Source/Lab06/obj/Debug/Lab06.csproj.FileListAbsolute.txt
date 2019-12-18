@@ -1,0 +1,9 @@
+E:\CNPM\lab6\Source\Lab06\bin\Debug\Lab06.exe.config
+E:\CNPM\lab6\Source\Lab06\bin\Debug\Lab06.exe
+E:\CNPM\lab6\Source\Lab06\bin\Debug\Lab06.pdb
+E:\CNPM\lab6\Source\Lab06\obj\Debug\Lab06.csprojResolveAssemblyReference.cache
+E:\CNPM\lab6\Source\Lab06\obj\Debug\Lab06.Form1.resources
+E:\CNPM\lab6\Source\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+E:\CNPM\lab6\Source\Lab06\obj\Debug\Lab06.csproj.GenerateResource.Cache
+E:\CNPM\lab6\Source\Lab06\obj\Debug\Lab06.exe
+E:\CNPM\lab6\Source\Lab06\obj\Debug\Lab06.pdb

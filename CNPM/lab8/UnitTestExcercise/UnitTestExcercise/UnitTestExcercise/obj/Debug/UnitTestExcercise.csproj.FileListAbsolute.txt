@@ -1,0 +1,7 @@
+C:\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.exe.config
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.exe.config
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.exe
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\bin\Debug\UnitTestExcercise.pdb
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.csprojResolveAssemblyReference.cache
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.exe
+E:\CNPM\lab8\UnitTestExcercise\UnitTestExcercise\UnitTestExcercise\obj\Debug\UnitTestExcercise.pdb

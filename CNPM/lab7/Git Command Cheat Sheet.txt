@@ -1,0 +1,104 @@
+'''Một số thông tin cần lưu ý:
+    - Mặc định các nội dung mới đưa vào sẽ nằm ở khu vực gọi là untracked. Vùng untracked sẽ không được commit
+    - Để commmit thay đổi cần phải đưa các file vào vùng tracked hay còn gọi là vùng staging sử dụng câu lệnh add
+    - Khi commit cần phải có message để mô tả chỉ tiết từng thay đổi trong commit'''
+
+# cấu hình user
+    git config --global user.name "Mai Van Manh"
+    git config --global user.email "mvmanh@gmail.com"
+
+# xem email và user
+    git config user.name  
+    git config user.email
+
+    git config --list   # show all
+
+# khởi tạo repository từ thư mục working directory
+    git init
+
+# clone toàn bộ repository kèm theo đầy đủ history từ server
+    git clone https://github.com/thachphamblog/hoc-git
+
+# kết nối local repository với remote repository
+    git init # khởi tạo trước
+    git remote add origin https://github.com/mvmanh/test.git # kết nối
+
+    git pull origin master # lấy code từ remote server về client    
+    git push origin master # đưa các thay đổi lên server
+
+# lấy dữ liệu từ remote. Câu này được dùng sau khi thêm remote
+    git fetch <remote name>
+
+'''
+    Khác nhau giữa pull và fetch:
+        - fetch chỉ lấy code từ server về nhưng không merge vào local repository.
+        - pull lấy code từ server về và update local repository theo server luôn
+'''    
+
+# đưa file các tập tin vào staging
+    git add README.txt
+    git add *.txt
+    git add . 
+
+# commit vào repository
+    git commit -m "message"
+
+# xem trạng thái các tập tin trong repository
+    git status
+
+# xem lịch sử của repository các lần commit
+    git log
+    git log -1 # chỉ xem lần commit cuối cùng
+
+# xem danh sách branch
+    git branch
+
+# tạo một branch mới
+    git branch <name>
+
+# xóa một branch
+    git branch -d <name>
+
+# chuyển đổi giữa các branch
+    git checkout <branch name>
+
+# xem danh sách các remote repository đang kết nối
+    git remote -v
+
+# đổi tên origin
+    git remote rename <old> <new>
+
+# thêm một remote repository
+    git remote add <origin name> <url>
+
+# Xoá một remote repository
+    git remote rm <remote name>
+
+# xóa tất cả thư mục và file trong untracked
+    git clean -fd
+
+# xóa 1 file ra khỏi quản lý của git 
+    git rm <file>
+    git rm --cache <file>: xóa ra khỏi git nhưng không xóa trong disk --> file về dạng untracked
+
+# khôi phục thay đổi của 1 file, hoặc revert file đã bị xóa
+    git checkout -- <file>
+
+# unstage 1 file. File sẽ quay lại trạng thái untracked
+    git reset HEAD <file>
+
+# xem tất cả các file đang tracked
+    git ls-tree -r master --name-only
+
+# lấy code của một revision nào đó
+    git checkout hashcode
+
+#revert all changes to local working directory
+    git checkout .
+
+# review file after remove
+    git clean -n
+
+# xóa file và thư mục untracked
+    lean -f -d or 
+    git clean -fd
